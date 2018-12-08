@@ -1,3 +1,5 @@
+# Code of Conduct
+
 Melbourne C++ is dedicated to providing a harassment-free community for everyone, regardless of sex, gender identity or
 expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious
 beliefs. We do not tolerate harassment of community members in any form. Participants violating these rules may be
